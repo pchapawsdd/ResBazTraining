@@ -2,6 +2,8 @@
 
 [Page 2](page2.html)
 
+[Page 3](page3.html)
+
 ## Section 1 About stuff
 
 This is my ***Git** website.*
